@@ -1,1 +1,2 @@
-First Change on remote repo for pull demo
+Change1:First Change on remote repo for pull demo
+Change2:second change by teammate on remote repo with conflict and rebase
